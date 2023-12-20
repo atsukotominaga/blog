@@ -100,5 +100,6 @@ theme: hexo-theme-ascent
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+type: git   
+  repo: git@github.com:atsukotominaga/blog.git
+  branch: gh-pages #published
