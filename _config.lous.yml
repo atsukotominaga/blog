@@ -1,0 +1,30 @@
+favicon: images/me.png
+
+menu:
+  Home: /
+
+copyright:
+  name: Atsuko Tominaga
+
+#license:
+#  name: CC-BY-NC-SA 4.0
+#  url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+rss:
+  path: 
+
+mathjax:
+  enable: false
+
+katex:
+  enable: true
+
+utterances:
+  enable: true
+  repo: https://atsukotominaga.github.io/blog
+  issueTerm: pathname
+  theme: github-light
+
+analytics:
+  enable: false
+  gtag: G-XXXXXXXXXXXX
