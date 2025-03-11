@@ -1,5 +1,6 @@
 ---
 title: About
+date: 
 ---
 
 ## me and cat
