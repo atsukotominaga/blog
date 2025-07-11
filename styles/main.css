@@ -156,7 +156,7 @@ footer p {
 html {
   width: 100dvw;
   height: 100dvh;
-  display: flex;
+  display: inline;
   padding: 30px 0;
   overflow: auto;
 }
