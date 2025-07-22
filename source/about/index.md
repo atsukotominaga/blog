@@ -3,7 +3,7 @@ title: About
 ---
 
 ## me and cat
-Hi, I am mametsuko. I am living in the Netherlands with my cat, tofu.
+Hi, I am mametsuko. I am living in the Netherlands with my cat, Tofu.
 
 ### my favourites
 
